@@ -31,6 +31,8 @@ navigation:
     url: cli/command-line-intro3
   - title: Extra
     url: cli/extra
+  - title: BashCrawl
+    url: https://github.com/mks22-dw/bashcrawl
 
   - heading: Software Installation
   - title: Installation using make and cmake
