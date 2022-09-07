@@ -116,7 +116,7 @@ function showResults(myq, qc, rc){
 <img src="figures/cli_figure1.png" alt="cli_figure1" width="800px"/>
 
 After opening or logging into a terminal, system messages are often displayed, followed by the "prompt".
-A prompt is a short text message at the start of the command line and ends with '$' in bash shell, commands are typed after the prompt. The prompt typically follows the form **username@server:current_directory$**. If your screen looks like the one below, i.e. your see your a bunch of messages and then your username followed by "@tadpole:~$" at the beginning of the line, then you are successfully logged in.
+A prompt is a short text message at the start of the command line and ends with '$' in bash shell, commands are typed after the prompt. The prompt typically follows the form **username@server:current_directory$**.
 
 <img src="figures/cli_figure4.png" alt="cli_figure4" width="800px"/>
 
