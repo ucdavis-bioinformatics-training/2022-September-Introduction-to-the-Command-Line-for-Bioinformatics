@@ -175,8 +175,9 @@ done
 
 The list can be a sequence of numbers or letters, or a group of files specified with wildcard characters:
 
-    for i in {3,2,1,liftoff}; do echo $i; done  # needs more excitement!
-    for i in {3,2,1,'liftoff!'}; do echo $i; done  # exclamation point will confuse the shell unless quoted
+    for i in {3,2,1,liftoff}; do echo $i; done  
+    for x in *.fq.gz; do echo $x; zcat $x | wc -l; done
+
 
  A "while" loop is more convenient than a "for" loop ... if you don't readily know how many iterations of the loop you want:
 
