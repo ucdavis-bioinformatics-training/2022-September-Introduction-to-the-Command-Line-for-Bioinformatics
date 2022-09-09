@@ -154,7 +154,7 @@ Finally, as before, we need to sort the data and then use "uniq -c" to count. Th
 Now you have a list of how many reads were categorized into each barcode. Here is a [sed tutorial](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux) for more exercises.
 
 **CHALLENGE:**
-Find the distribution of the first 5 bases of all the reads in C61_S67_L006_R1_001.fq.gz. I.e., count the number of times the first 5 bases of every read occurs across all reads.
+Find the distribution of the first 5 bases of all the reads in C61.subset.fq.gz. I.e., count the number of times the first 5 bases of every read occurs across all reads.
 
 
 Loops
