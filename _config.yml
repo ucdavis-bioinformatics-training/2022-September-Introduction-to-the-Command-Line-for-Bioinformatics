@@ -39,8 +39,8 @@ navigation:
     url: cli/software
   - title: Conda
     url: cli/conda
-#  - title: Day 3 Homework Solution
-#    url: cli/day3_homework_solution
+  - title: Challenge & Homework Solutions
+    url: cli/solutions
 
   - heading: ETC
   - title: Closing thoughts
