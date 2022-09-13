@@ -33,14 +33,14 @@ navigation:
     url: cli/extra
   - title: BashCrawl
     url: https://github.com/mks22-dw/bashcrawl
+  - title: Challenge & Homework Solutions
+    url: cli/solutions
 
   - heading: Software Installation
   - title: Installation using make and cmake
     url: cli/software
   - title: Conda
     url: cli/conda
-  - title: Challenge & Homework Solutions
-    url: cli/solutions
 
   - heading: ETC
   - title: Closing thoughts
